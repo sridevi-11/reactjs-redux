@@ -1,0 +1,76 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nama": "devi",
+      "alamat": "griya",
+      "hp": "088881"
+    },
+    {
+      "id": 2,
+      "nama": "davi",
+      "alamat": "griya",
+      "hp": "088882"
+    },
+    {
+      "id": 3,
+      "nama": "divi",
+      "alamat": "griya",
+      "hp": "088883"
+    },
+    {
+      "id": 4,
+      "nama": "duvi",
+      "alamat": "griya",
+      "hp": "088884"
+    },
+    {
+      "id": 5,
+      "nama": "dovi",
+      "alamat": "griya",
+      "hp": "088885"
+    },
+    {
+      "id": 6,
+      "nama": "devi",
+      "alamat": "griya",
+      "hp": "088886"
+    },
+    {
+      "id": 7,
+      "nama": "davi",
+      "alamat": "griya",
+      "hp": "088887"
+    },
+    {
+      "id": 8,
+      "nama": "divi",
+      "alamat": "griya",
+      "hp": "088888"
+    },
+    {
+      "id": 9,
+      "nama": "duvi",
+      "alamat": "griya",
+      "hp": "088889"
+    },
+    {
+      "id": 10,
+      "nama": "dovi",
+      "alamat": "griya",
+      "hp": "088810"
+    },
+    {
+      "id": 11,
+      "nama": "vuvi",
+      "alamat": "griya",
+      "hp": "088811"
+    },
+    {
+      "id": 12,
+      "nama": "vovi",
+      "alamat": "griya",
+      "hp": "088812"
+    }
+  ]
+}
